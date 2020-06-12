@@ -32,6 +32,7 @@ module.name_mapper='Recoil_WaitFor' -> '<PROJECT_ROOT>/src/recoil_values/Recoil_
 
 module.name_mapper='Recoil_Hooks' -> '<PROJECT_ROOT>/src/hooks/Recoil_Hooks.js'
 module.name_mapper='Recoil_Loadable' -> '<PROJECT_ROOT>/src/adt/Recoil_Loadable.js'
+exact_by_default=true
 
 [strict]
 deprecated-type
